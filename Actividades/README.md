@@ -1,2 +1,3 @@
-# Borrar-Despues
-Repositorio principal de información de ensayos
+# ACTIVIDADES
+
+Carpeta que contiene todas las actividades del curso.

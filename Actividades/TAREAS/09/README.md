@@ -1,20 +1,8 @@
-# Tarea Número 01
-## Sensores y Actuadores
-## Presentación en diapositivas / mapa mental / 
-### Sergio Francisco Hernández Machuca
+# Tarea Número 09
+## Sistemas en tiempo real (RTOS)
+### Equipo 5 (Wendy, Osiel, Mario)
 
-En esta sección se encuentra lo relacionado con Sensores:
-1. Definición
-2. Características
-3. Clasificación según el principio físico de funcionamiento
-4. Clasificación según tipo de señal que entregan
-5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
+En esta actividad se encuentra un ejercicio de sistemas de tiempo real utilizando una Esp32 y freeRTOS,
+ademas del codigo realizado en el IDE Arduino.
 
-Continúa con con el tratamiento de los Sensores:
-1. Definición
-2. Características
-3. Clasificación según el principio físico de funcionamiento
-4. Clasificación según tipo de señal que entregan
-5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
-
-Esta tarea se entregó el día 23 de septiembre del 2020, año del Covid-19.
+Esta tarea se entregó el día 25 de noviembre del 2020, año del Covid-19.
